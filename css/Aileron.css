@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-LightItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-Thin.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-ThinItalic.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-SemiBoldItalic.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-Heavy.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-HeavyItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-UltraLight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-UltraLightItalic.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('https://naphatfonts.pages.dev/fonts/aileron/Aileron-BlackItalic.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* ใช้ฟอนต์ในหน้าเว็บ */
+body {
+    font-family: 'Aileron', sans-serif;
+}
